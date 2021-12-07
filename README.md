@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christhebliss&langs_count=10&hide=scss)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christhebliss&layout=compact&hide=scss)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=christhebliss)](https://github.com/anuraghazra/github-readme-stats)
